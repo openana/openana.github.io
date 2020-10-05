@@ -1,0 +1,13 @@
+items:
+  - title: Docs
+    to: /docs/getting-started.html
+    activeSelector: /docs/
+  - title: Events
+    to: /events/
+    activeSelector: /events
+  - title: Blog
+    to: /blog/
+    activeSelector: /blog
+  - title: 关于
+    to: /about/support.html
+    activeSelector: /about
